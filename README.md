@@ -39,6 +39,12 @@ It is designed to provide a seamless and engaging user experience while reflecti
 
 ---
 
+## 🖼️ Portfolio Preview
+
+<p align="center">
+  <img src="./public/image.png" alt="Portfolio Preview" width="800"/>
+</p>
+
 ## 📬 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/siya-srivastava-17bb15341  
