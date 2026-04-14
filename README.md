@@ -42,7 +42,7 @@ It is designed to provide a seamless and engaging user experience while reflecti
 ## 🖼️ Portfolio Preview
 
 <p align="center">
-  <img src="./assets/image.png" alt="Portfolio Preview" width="800"/>
+  <img src="./assets/portfolio-preview.png" alt="Portfolio Preview" width="800"/>
 </p>
 
 ## 📬 Contact
