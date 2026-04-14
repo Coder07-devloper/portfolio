@@ -35,14 +35,14 @@ It is designed to provide a seamless and engaging user experience while reflecti
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio](https://your-vercel-link.vercel.app)
+👉 [View Portfolio](https://portfolio-liard-delta-94.vercel.app/)
 
 ---
 
 ## 📬 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/siya-srivastava-17bb15341  
+- 📧 Email: siyasri19.14@gmail.com  
 
 ---
 
