@@ -38,7 +38,6 @@ It is designed to provide a seamless and engaging user experience while reflecti
 👉 [View Portfolio](https://portfolio-liard-delta-94.vercel.app/)
 
 ---
-
 ## 🖼️ Portfolio Preview
 
 <p align="center">
