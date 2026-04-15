@@ -56,8 +56,8 @@ export default function Hero() {
             className="flex justify-center md:justify-start"
           >
             <a
-              href="/Resume_Siya(1).pdf"
-              download="Resume_Siya(1).pdf"
+              href="/Resume_Siya.pdf"
+              download="Resume_Siya.pdf"
             >
               <Button
                 size="lg"
