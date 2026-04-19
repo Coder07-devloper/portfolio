@@ -14,7 +14,7 @@ const projects = [
     githubLink: "https://github.com/Coder07-devloper/Acadify-AI-Study-Assistant",
   },
   {
-    title: "🔥HirableX — AI Interview Platform",
+    title: "🔥HirableX — AI Interview Preparation Platform",
     description: "An AI-driven interview preparation platform that provides personalized feedback, skill-gap analysis, and preparation roadmaps using LLMs. Includes an ATS-optimized resume generator with secure authentication and scalable backend for efficient data processing.",
     image: "/project2.png",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "Gemini API", "Puppeteer"],
