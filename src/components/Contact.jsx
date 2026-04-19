@@ -15,10 +15,10 @@ export default function Contact() {
     setStatus(null)
 
     const formData = new FormData(e.target)
-    
+
     // Web3Forms requires an access key to know where to send the email.
     // NOTE: You will need to replace this key with your own from https://web3forms.com/
-    formData.append("access_key", "YOUR_ACCESS_KEY_HERE")
+    formData.append("access_key", "5f1cb596-af8a-4b2f-806e-f020c94d6713")
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
@@ -121,7 +121,7 @@ export default function Contact() {
                       placeholder="Hi there..."
                     />
                   </div>
-                  
+
                   {status && (
                     <div className={`flex items-center gap-2 text-sm p-3 rounded-md ${status.type === 'success' ? 'bg-green-500/10 text-green-400' : 'bg-red-500/10 text-red-400'}`}>
                       {status.type === 'success' ? <CheckCircle2 className="w-4 h-4" /> : <AlertCircle className="w-4 h-4" />}
@@ -130,7 +130,7 @@ export default function Contact() {
                   )}
 
                   <Button type="submit" disabled={isSubmitting} className="w-full gap-2">
-                    <Send className="w-4 h-4" /> 
+                    <Send className="w-4 h-4" />
                     {isSubmitting ? "Sending..." : "Send Message"}
                   </Button>
                 </form>
