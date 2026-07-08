@@ -27,7 +27,7 @@ export default function About() {
           className="max-w-3xl mx-auto text-center text-gray-300 text-lg leading-relaxed mb-16"
         >
           <p>
-            I am a final-year Computer Science student with a strong interest in{" "}
+            Computer Science Graduate with a strong interest in{" "}
             <span className="text-indigo-400 font-medium">full-stack development (MERN)</span>,{" "}
             <span className="text-indigo-400 font-medium">backend systems</span>, and{" "}
             <span className="text-indigo-400 font-medium">RESTful APIs</span>.

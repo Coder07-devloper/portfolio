@@ -47,7 +47,7 @@ export default function Hero() {
             variants={itemVariants}
             className="text-lg text-gray-400 mb-8 max-w-xl mx-auto md:mx-0"
           >
-            Final-year Computer Science student specializing in MERN, scalable system design, and AI-powered applications using LLMs and modern cloud technologies.
+          Computer Science graduate with hands-on experience in building full-stack web applications using the MERN stack and RESTful APIs. Strong foundation in Data Structures & Algorithms, authentication systems, AWS deployment, and AI-powered application development using LLM APIs.
           </motion.p>
 
           {/* ✅ FIXED BUTTON (No asChild) */}
